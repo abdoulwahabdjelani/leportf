@@ -1,0 +1,25 @@
+nav{
+    background-color: rgb(72, 228, 234);
+}
+nav ul{
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    overflow: hidden;
+}
+nav li{
+    float: right;
+}
+nav a{
+    display: block;
+    text-align: center;
+    color: rgb(255, 251, 251);
+    padding: 15px 16px;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: blueviolet;
+}
+.div2{
+background-color: rgb(72, 228, 234);
+}
